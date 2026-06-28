@@ -1,0 +1,23 @@
+/* .btn-success {
+    background-color: blue !important;
+} */
+
+.btn-success {
+    background-color: #111d4a !important;
+    user-select: none;
+    border: 1px solid #111d4a;
+    padding: 0 30px;
+    font-size: 15px;
+    line-height: 45px;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    z-index: 5;
+    transition: all 0.4s ease-out 0s;
+    background-color: #111d4a;
+}
+
+.login-page,
+.register-page {
+    background-color: #0569bf !important;
+}
